@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\bin\Debug\ConsoleAppCalculatingTheFactorial.exe.config
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\bin\Debug\ConsoleAppCalculatingTheFactorial.exe
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\bin\Debug\ConsoleAppCalculatingTheFactorial.pdb
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\obj\Debug\ConsoleAppCalculatingTheFactorial.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\obj\Debug\ConsoleAppCalculatingTheFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\obj\Debug\ConsoleAppCalculatingTheFactorial.exe
+C:\Users\Q\source\repos\ConsoleAppCalculatingTheFactorial\ConsoleAppCalculatingTheFactorial\obj\Debug\ConsoleAppCalculatingTheFactorial.pdb
